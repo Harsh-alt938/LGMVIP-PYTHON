@@ -12,8 +12,10 @@ This is a classic Snake Game implemented using Python's Pygame library. The game
 - [License](#license)
 
 ## Screenshot
-![Application Demo](output1.jpg) ![Application Demo](output2.jpg)
-![Application Demo](output3.jpg) ![Application Demo](output4.jpg)
+![Application Demo](output1.jpg) 
+![Application Demo](output2.jpg)
+![Application Demo](output3.jpg) 
+![Application Demo](output4.jpg)
 
 ## Features
 
