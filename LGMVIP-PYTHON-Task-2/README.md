@@ -33,12 +33,12 @@ This is a classic Snake Game implemented using Python's Pygame library. The game
    ```bash
    git clone https://github.com/your_username/your_repository.git
 
-2. **Install Pygame:
+2. **Install Pygame:**
    If Pygame is not already installed, you can install it using pip:
    ```bash
    pip install pygame
 
-3. **Run the Game:
+3. **Run the Game:**
    Navigate to the directory where you cloned the repository and run the Python script:
    ```bash
    python snake_game.py
