@@ -32,3 +32,38 @@ Include screenshots or GIFs of your application in action here. For example:
    ```bash
    git clone https://github.com/your_username/your_repository.git
 
+2. **Install dependencies:**
+   
+   Navigate to the project directory and install the required packages:
+   
+    ```bash
+    pip install imageio pillow
+
+4. **Run the application:**
+
+   Execute the Python script image_to_gif_converter.py:
+
+    ```bash
+    python image_to_gif_converter.py
+
+## Usage
+
+- **Launch the application and select a folder containing PNG or JPEG images.**
+- **Choose the desired image format or select 'both' to convert all supported formats.**
+- **Click "Convert to GIF" to generate a GIF file.**
+- **Specify the output filename and location when prompted.**
+
+## Contributing
+
+Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## Acknowledgements
+
+- **Created by: Harsh Bhardwaj**
+- **Utilizes the Imageio library for image processing.**
+- **GUI built using Tkinter**
+
