@@ -4,6 +4,7 @@ This is a classic Snake Game implemented using Python's Pygame library. The game
 
 ## Table of Contents
 
+- [Screenshot](#Screenshot)
 - [Features](#features)
 - [Controls](#controls)
 - [Installation](#installation)
