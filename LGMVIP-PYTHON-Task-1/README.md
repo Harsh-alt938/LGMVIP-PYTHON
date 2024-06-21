@@ -18,7 +18,8 @@ This Python application allows you to convert images (PNG, JPEG, or both) from a
 Include screenshots or GIFs of your application in action here. For example:
 
 ![Input](output.jpg)
-![Application Demo](demo.gif)
+
+![Output](demo.gif)
 
 ## Features
 
