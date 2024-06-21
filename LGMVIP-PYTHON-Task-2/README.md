@@ -45,11 +45,11 @@ This is a classic Snake Game implemented using Python's Pygame library. The game
 
 ## Usage
 
-- **Launch the game using the instructions provided in the Installation section.
-- **Use the arrow keys to control the snake's movement.
-- **Eat the apples to score points.
-- **Avoid collisions with walls and the snake itself.
-- **When the game ends, you can choose to play again or quit.
+- **Launch the game using the instructions provided in the Installation section.**
+- **Use the arrow keys to control the snake's movement.**
+- **Eat the apples to score points.**
+- **Avoid collisions with walls and the snake itself.**
+- **When the game ends, you can choose to play again or quit.**
 
 
 
