@@ -11,6 +11,10 @@ This is a classic Snake Game implemented using Python's Pygame library. The game
 - [Contributing](#contributing)
 - [License](#license)
 
+## Screenshot
+![Application Demo](output1.jpg) ![Application Demo](output2.jpg)
+![Application Demo](output3.jpg) ![Application Demo](output4.jpg)
+
 ## Features
 
 - **Snake Movement**: Control the snake using arrow keys (up, down, left, right).
