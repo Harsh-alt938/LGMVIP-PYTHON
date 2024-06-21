@@ -13,7 +13,7 @@ This is a classic Snake Game implemented using Python's Pygame library. The game
 
 ## Screenshot
 
-![Application Demo](output1.jpg)
+![Application Demo](Output1.jpg)
 
 ## Features
 
