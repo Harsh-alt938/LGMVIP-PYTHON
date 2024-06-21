@@ -10,7 +10,6 @@ This is a classic Snake Game implemented using Python's Pygame library. The game
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
-- [Acknowledgements](#acknowledgements)
 
 ## Features
 
@@ -51,7 +50,12 @@ This is a classic Snake Game implemented using Python's Pygame library. The game
 - **Avoid collisions with walls and the snake itself.**
 - **When the game ends, you can choose to play again or quit.**
 
+## Contributing
 
+Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
+## License
+
+This project is licensed under the [MIT License](LICENSE).
 
 
