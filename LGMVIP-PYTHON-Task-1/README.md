@@ -64,6 +64,6 @@ This project is licensed under the [MIT License](LICENSE).
 ## Acknowledgements
 
 - **Created by: Harsh Bhardwaj**
-- **Utilizes the Imageio library for image processing.**
-- **GUI built using Tkinter**
+- **Utilizes the [Imageio](https://pypi.org/project/imageio/) library for image processing.**
+- **GUI built [Tkinter](https://docs.python.org/3/library/tkinter.html)**
 
